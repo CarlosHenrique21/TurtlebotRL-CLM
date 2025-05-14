@@ -20,7 +20,7 @@ Robôs treinados para “resolver labirintos” podem ser empregados em missões
 Neste contexto, a capacidade de sair de labirintos sem mapa prévio torna-se fundamental para garantir autonomia e segurança em cenários reais de exploração.
 
 
-## 📚 Referências 
+# 📚 Referências 
 ALIIREZAEI. *turtlebot3_rl*. GitHub. Disponível em: https://github.com/AliiRezaei/turtlebot3_rl. Acesso em: 14 maio 2025.
 
 REINIS. Using Turtlebot in Deep Reinforcement Learning. *Medium*, 2022. Disponível em: https://medium.com/@reinis_86651/using-turtlebot-in-deep-reinforcement-learning-4749946e1c15. Acesso em: 14 maio 2025.
